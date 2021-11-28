@@ -1,0 +1,17 @@
+{
+  "prefixes": ["!","."],
+  "botToken": "OTEyMDE1ODQyMjc4MDAyNzM4.YZpy8Q.L5Lgh-VEMraDL3XKRwJMETMlZvk",
+  "developers": ["130350208608370689"],
+  "mongooseConnectURL": "mongodb+srv://rolex:rolex@cluster0.x6ekz.mongodb.net/register?retryWrites=true&w=majority",
+  "botStatus": "Rolex ❤️ Wod",
+  "name_age": true,
+  "embedColor": "RANDOM",
+  "defaultTag": "Wod",
+  "tag": "Wod",
+  "staffRoles": ["914435332404027422"],
+  "invalids": ["874739818511347742"],
+  "unregisterRoles": ["874739749989023744"],
+  "boyRoles": ["874739749301129256"],
+  "girlRoles": ["874739748286107759"],
+  "tagRoles": ["874739746247700590"]
+}
