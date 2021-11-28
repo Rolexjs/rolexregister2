@@ -1,6 +1,6 @@
 {
   "prefixes": ["!","."],
-  "botToken": "OTEyMDE1ODQyMjc4MDAyNzM4.YZpy8Q.L5Lgh-VEMraDL3XKRwJMETMlZvk",
+  "botToken": "",
   "developers": ["130350208608370689"],
   "mongooseConnectURL": "mongodb+srv://rolex:rolex@cluster0.x6ekz.mongodb.net/register?retryWrites=true&w=majority",
   "botStatus": "Rolex ❤️ Wod",
